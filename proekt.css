@@ -1,0 +1,23 @@
+.header__logo1{
+    font-family: "Raleway", sans-serif;
+}
+.header__logo2{
+    font-family: "Raleway", sans-serif;
+}
+.header {
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.header__list{
+display: flex;
+gap: 50px;
+}
+.nav__item{
+    list-style-type: none;
+}
+.header__contacts{
+    display: flex;
+    gap: 50px;
+}
